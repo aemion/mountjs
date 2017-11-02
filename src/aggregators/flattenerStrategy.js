@@ -18,4 +18,4 @@ const flattenerStrategy = (results, config) => {
   return aggregatedResult
 }
 
-exports.flattenerStrategy = flattenerStrategy
+module.exports = exports.flattenerStrategy = flattenerStrategy
