@@ -1,0 +1,11 @@
+{
+  "name": "mountjs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre Emion <alexandre.emion@gmail.com>",
+  "license": "ISC"
+}
